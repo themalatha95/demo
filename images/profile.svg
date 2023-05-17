@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>profile</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Photo-upload-" transform="translate(-112.000000, -164.000000)">
+            <g id="profile" transform="translate(112.000000, 164.000000)">
+                <circle id="Oval" fill="#CBD5E1" cx="18" cy="18" r="18"></circle>
+                <g id="Group-4" transform="translate(9.000000, 6.000000)" fill="#FFFFFF">
+                    <circle id="Oval-2" cx="9.5" cy="6" r="6"></circle>
+                    <path d="M5.34807728,12 C6.51299451,12.8491184 7.81728576,13.2736775 9.26095104,13.2736775 C10.7046163,13.2736775 12.0101632,12.8491184 13.1775916,12 C14.4463566,13.1242215 15.4436301,14.3604726 16.1694118,15.7087534 C17.2580844,17.7311745 17.855636,19.4248977 17.9809853,20.6428375 C18.1063346,21.8607773 17.5944261,22.8024779 16.9609438,23.399569 C16.5386223,23.7976297 15.6805675,23.9977734 14.3867793,24 L2.60871593,24 C0.737287909,23.6006212 -0.127253124,22.4212147 0.0150928347,20.4617806 C0.106050826,19.2097171 1.18232219,16.4940079 2.60871593,14.5387019 C3.14595643,13.8022506 4.05907688,12.9560167 5.34807728,12 Z" id="Path-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
